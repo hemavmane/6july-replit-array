@@ -1,0 +1,10 @@
+# 6july-replit-array
+![image](https://user-images.githubusercontent.com/105298916/177546857-d449b28f-5c2b-4340-b0ca-1675ae23b748.png)
+![image](https://user-images.githubusercontent.com/105298916/177546955-409dc390-a5a7-406a-9839-af8331bf2042.png)
+![image](https://user-images.githubusercontent.com/105298916/177547055-7547c974-c99f-4f4d-9559-dd2afee33d95.png)
+![image](https://user-images.githubusercontent.com/105298916/177547373-c4721099-95a0-4e7c-b1f9-0a40a731f5c4.png)
+![image](https://user-images.githubusercontent.com/105298916/177547540-ff37e086-e3f3-42aa-b3ad-95181b97b49c.png)
+![image](https://user-images.githubusercontent.com/105298916/177547629-f8d7ca51-9eb8-4cf8-8ca2-4e1e3746ceef.png)
+![image](https://user-images.githubusercontent.com/105298916/177547671-f2bccec1-7555-4dc1-ab14-88b6cab9f529.png)
+![image](https://user-images.githubusercontent.com/105298916/177547803-8991480a-e421-4245-9eb5-f22f0ec05f3c.png)
+![image](https://user-images.githubusercontent.com/105298916/177547847-4775432f-f738-4973-9083-4c874bf4de2f.png)
